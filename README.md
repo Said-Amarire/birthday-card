@@ -57,20 +57,24 @@ Use the "Share Card" button to share the link with friends.
 ## 📂 Project Structure
 ## 📂 Project Structure
 
-| Folder/File      | Description        |
-|------------------|--------------------|
-| birthday-card/   | Root folder        |
-| ├─ boys/         | Boys section       |
-| │  ├─ ar/        | Arabic version     |
-| │  ├─ en/        | English version    |
-| │  ├─ fr/        | French version     |
-| │  └─ assets/    | Assets for boys    |
-| ├─ girls/        | Girls section      |
-| │  ├─ ar/        | Arabic version     |
-| │  ├─ en/        | English version    |
-| │  ├─ fr/        | French version     |
-| │  └─ assets/    | Assets for girls   |
-| └─ README.md     | Project readme     |
+- birthday-card/
+  - boys/
+    - ar/
+      - index.html
+    - en/
+      - index.html
+    - fr/
+      - index.html
+    - assets/
+  - girls/
+    - ar/
+      - index.html
+    - en/
+      - index.html
+    - fr/
+      - index.html
+    - assets/
+  - README.md
 
 
 ---
