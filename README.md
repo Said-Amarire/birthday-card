@@ -75,6 +75,26 @@ birthday-card/
 │ └── assets/
 └── README.md
 
+## 📂 Project Structure
+
+birthday-card/
+├── boys/
+│   ├── ar/
+│   │   └── index.html
+│   ├── en/
+│   │   └── index.html
+│   ├── fr/
+│   │   └── index.html
+│   └── assets/
+├── girls/
+│   ├── ar/
+│   │   └── index.html
+│   ├── en/
+│   │   └── index.html
+│   ├── fr/
+│   │   └── index.html
+│   └── assets/
+└── README.md
 
 ---
 
