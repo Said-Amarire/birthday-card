@@ -56,7 +56,9 @@ Use the "Share Card" button to share the link with friends.
 
 ## 📂 Project Structure
 
-📁 birthday-card/
+## 📂 Project Structure
+
+birthday-card/
 ├── boys/
 │   ├── ar/
 │   │   └── index.html
@@ -74,6 +76,7 @@ Use the "Share Card" button to share the link with friends.
 │   │   └── index.html
 │   └── assets/
 └── README.md
+
 
 
 ---
