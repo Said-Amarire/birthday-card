@@ -55,7 +55,6 @@ Use the "Share Card" button to share the link with friends.
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 - birthday-card/
   - boys/
