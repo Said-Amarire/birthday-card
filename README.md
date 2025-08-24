@@ -1,33 +1,33 @@
-# 🎂 Birthday Card Project
+# 🎂 Birthday Card Project - Amarire Dev
 
-Interactive and multilingual birthday card web pages with separate versions for **boys** and **girls**.  
-Supports **Arabic, English, and French** content.
+Interactive birthday greeting cards available in **two Arabic versions**:  
+one for **boys** and one for **girls**.  
 
 ---
 
 ## 📖 Project Description
-This repository contains **6 versions** of a birthday greeting card:
+This repository contains **2 working web pages**:
 
 | Language | Boys Version | Girls Version |
-|----------|-------------|---------------|
+|----------|--------------|---------------|
 | Arabic   | `boys/ar/index.html` | `girls/ar/index.html` |
-| English  | `boys/en/index.html` | `girls/en/index.html` |
-| French   | `boys/fr/index.html` | `girls/fr/index.html` |
 
 **Notes:**  
-- All versions share the same structure and functionality.  
-- Differences are mainly in **colors, text language, and some visual details**.
+- The images, audio files, and phrases used in these pages are **generic placeholders** found on the internet and are provided for demonstration only.  
+- You are free to replace them with your own images and text.  
+- The design is fully responsive, optimized for **desktops, tablets, and mobile devices**.  
 
 ---
 
 ## ⚡ Features
-- RTL support for Arabic content  
-- Play/pause background music  
-- Easy card sharing  
-- Masonry-style image gallery and Polaroid effects  
-- Special effects: Confetti and Balloons  
+- RTL (Right-to-Left) support for Arabic content  
+- Play/pause background music 🎵  
+- Easy card sharing via button  
+- Masonry-style image gallery with Polaroid effects  
+- Special effects: Confetti 🎉 and Balloons 🎈  
 - Lazy loading for images to improve performance  
-- Color themes differ for boys and girls versions
+- Distinct color themes for boys and girls versions  
+- Protected placeholder images: cannot be downloaded directly from devices  
 
 ---
 
@@ -36,21 +36,19 @@ This repository contains **6 versions** of a birthday greeting card:
 | Language | Boys | Girls |
 |----------|------|-------|
 | Arabic   | [Demo](https://amarire.dev/demo/birthday/boys/ar/index.html) | [Demo](https://amarire.dev/demo/birthday/girls/ar/index.html) |
-| English  | [Demo](https://amarire.dev/demo/birthday/boys/en/index.html) | [Demo](https://amarire.dev/demo/birthday/girls/en/index.html) |
-| French   | [Demo](https://amarire.dev/demo/birthday/boys/fr/index.html) | [Demo](https://amarire.dev/demo/birthday/girls/fr/index.html) |
 
 ---
 
 ## 💻 How to Use
-### Open the desired version
-- **Boys:** `boys/<lang>/index.html`  
-- **Girls:** `girls/<lang>/index.html`
+### Open the desired page
+- **Boys (Arabic):** `boys/ar/index.html`  
+- **Girls (Arabic):** `girls/ar/index.html`
 
 ### Play music
-Click the play button 🎵 at the bottom of the page.
+Click the **play button 🎵** at the bottom of the page.
 
 ### Share the card
-Use the "Share Card" button to share the link with friends.
+Use the **"Share Card"** button to share the link with friends.
 
 ---
 
@@ -60,44 +58,43 @@ Use the "Share Card" button to share the link with friends.
   - boys/
     - ar/
       - index.html
-    - en/
-      - index.html
-    - fr/
-      - index.html
-    - assets/
+      - assets/
+        - css/style.css
+        - js/script.js
+        - images/banner.png, image1.jpg, ...
+        - audio/audio1.mp3, audio2.mp3, ...
   - girls/
     - ar/
       - index.html
-    - en/
-      - index.html
-    - fr/
-      - index.html
-    - assets/
+      - assets/
+        - css/style.css
+        - js/script.js
+        - images/banner.png, image1.jpg, ...
+        - audio/audio1.mp3, audio2.mp3, ...
   - README.md
-
+  - LICENSE
 
 ---
 
 ## 🎨 Customization
-- Edit text in `index.html` for each language.  
+- Edit text inside `index.html`.  
 - Replace images in `assets/images/`.  
 - Change background music in `assets/audio/`.  
 - Modify styles in `assets/css/style.css`.  
-- Adjust interactive effects in `assets/js/script.js`.
-
----
-
-## 🤝 Contributing
-Contributions are welcome!  
-- Fork the project  
-- Add your improvements  
-- Open a Pull Request for review
+- Adjust interactive effects in `assets/js/script.js`.  
 
 ---
 
 ## 📜 License
 This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.  
+
+**Notes about media:**  
+- The code is MIT-licensed, but the images, audio files, and other media assets are **generic placeholders** and not covered by the license.  
+- You can replace them with your own content.  
+- For any issues or suggestions, contact:
+
+📧 contact@amarire.dev
 
 ---
 
