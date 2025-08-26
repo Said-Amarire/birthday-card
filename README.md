@@ -35,7 +35,7 @@ This repository contains **2 working web pages**:
 
 | Language | Boys | Girls |
 |----------|------|-------|
-| Arabic   | [Demo](https://amarire.dev/demo/birthday/boys/ar/index.html) | [Demo](https://amarire.dev/demo/birthday/girls/ar/index.html) |
+| Arabic   | [Demo](https://amarire.dev/demo/pages-demo/birthday/boys/ar/index.html) | [Demo](https://amarire.dev/demo/pages-demo/birthday/girls/ar/index.html) |
 
 ---
 
